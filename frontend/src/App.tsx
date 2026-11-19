@@ -73,7 +73,7 @@ export default function App() {
       <section className="invitation-card">
         <p className="eyebrow">A FAMILY CELEBRATION</p>
         <h1>Membeso</h1>
-        <p className="event-date">Sunday, 27 December 2026</p>
+        <p className="event-date">Sunday, 12:00, 27 December 2026</p>
         <div className="ornament" aria-hidden="true">✦</div>
         <p className="intro">
           You are warmly invited to our family's membeso occasion, marking the
